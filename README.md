@@ -1,4 +1,4 @@
-# Google Sheets API Codelab
+# youtube-in-your-app
 
 This folder contains the source code for a Google I/O 2016 codelab.
 
